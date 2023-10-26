@@ -10,7 +10,6 @@ GameRules() {
 }
 
 LoadingHash() {
-  GameRules
   echo -n "Loading : "
   # Simple loading bar
   echo -n "["
@@ -20,6 +19,8 @@ LoadingHash() {
     sleep 0.3
   done
   echo "] Done!"
+  echo $(clear)
+  GameRules
 }
 
 
