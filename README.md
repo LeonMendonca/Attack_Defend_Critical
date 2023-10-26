@@ -12,8 +12,11 @@ INPUTS:
 3 - Critical:Inflict severe damage to your opponent, but at a certain HP cost (like a heavy toll, lol)
 
 NOTE:All of them generate random number within a specific range
+
 Attack - 5 to 10
+
 Defend - 5 to 15
+
 Critical - HP Cost - 10 to 20 and Damamge Dealt - 15 to 30
 
 No. of moves : infinite - Attack, 3 - Defense, 2 - Critical
