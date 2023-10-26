@@ -6,7 +6,7 @@ HOW TO RUN? navigate to the folder where you've cloned the project, and then bas
 NOTE:ONCE YOU RUN THE PROGRAM, THE TERMINAL IS CLEARED AFTER 5 SECONDS
 IVE JUST INCLUDED THIS BECAUSE THE TERMINAL GETS CLUTTERED WHILE RUNNING THE PROGRAM
 
-INPUTS
+INPUTS:
 1 - Attack:Inflict damage to your opponent 
 2 - Defend:Defend yourself by increasing your HP
 3 - Critical:Inflict severe damage to your opponent, but at a certain HP cost (like a heavy toll, lol)
